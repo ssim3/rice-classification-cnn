@@ -1,6 +1,4 @@
 # Rice Classification CNN
-
-## Overview
 This repository contains the code for a Convolutional Neural Network (CNN) designed for the classification of rice grains. The CNN is trained on a dataset of annotated rice grain images, allowing it to distinguish between different varieties and conditions of rice.
 
 ## Requirements
